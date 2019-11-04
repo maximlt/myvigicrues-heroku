@@ -3,3 +3,4 @@ panel
 datashader
 hvplot
 jupyter
+requests
