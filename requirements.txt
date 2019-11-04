@@ -1,0 +1,4 @@
+geopandas
+panel
+datashader
+hvplot
