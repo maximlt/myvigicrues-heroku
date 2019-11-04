@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT myvigicrues_heroku.ipynb --allow-websocket-origin=myvigicrues.herokuapp.com
